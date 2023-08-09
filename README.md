@@ -2,3 +2,4 @@
 150 days challenge of coding
 
 1. Merge Sorted Array
+2. Remove Element
